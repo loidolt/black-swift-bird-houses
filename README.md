@@ -1,53 +1,34 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 11/16/2018
+tags: woodworking, laser
+description: Second round of client gifts for Black Swift. This year they wanted something more practical than the desk logo I made last time.
+slug: black-swift-bird-houses
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Black Swift Bird Houses
+
+Second round of client gifts for Black Swift. This year they wanted something more practical than the desk logo I made last time.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Black Swift Bird Houses](#black-swift-bird-houses)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
+  - [The Build](#the-build)
+  - [Finishing](#finishing)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+The design parameters for this build included clean lines, a modern aesthetic, a front-facing logo, and a functional birdhouse. We settled on a boxy birdhouse that is approximately the correct size for birds in this area with a 3/4" wall thickness for the insulation value required in Colorado's winter climate.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+## The Build
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+The build and assembly were pretty straightforward. All the lower section blocks are the same (except for the block with a hole and the engraved block), so it was just a matter of cutting all the pieces, gluing up ring sections, and stacking them all together.
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Spacers were added to the bolt side of the lid to achieve the modern angled roof aesthetic, and the hanger bolt was drilled and countersunk on an angle to keep it plumb with the hang line. All hardware was stainless steel except for the spacers under the roof which were made from aluminum.
 
-`write-your-code-here`
+## Finishing
 
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+We went with exterior polyurethane for a more durable finish this time due to the intended use case. A couple of coats were brushed on to build up thickness and the final coat was sprayed on.
